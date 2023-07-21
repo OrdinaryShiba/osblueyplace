@@ -1,0 +1,15 @@
+{
+"contact": "discord.gg/blueyheeler",
+"templates": [
+{
+"name": "Bluey and Bingo",
+"sources": [
+"https://raw.githubusercontent.com/OrdinaryShiba/osblueyplace/main/blueyplace1.png"
+],
+"x": 335,
+"y": 695
+}
+],
+"whitelist": [],
+"blacklist": []
+}
