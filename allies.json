@@ -1,0 +1,36 @@
+{
+    "contact":"Bluey Alliance",
+    "whitelist":[
+       {
+          "name":"Bluey",
+          "url":"https://raw.githubusercontent.com/OrdinaryShiba/osblueyplace/main/bluey.json"
+       },
+       {
+          "name":"My Little Pony",
+          "url":"http://ponyplace-cdn.ferrictorus.com/mlp/endu_template.json"
+       },
+       {
+          "name":"Super Bear",
+          "url":"https://raw.githubusercontent.com/OrdinaryShiba/osblueyplace/main/superbear.json"
+       },
+       {
+          "name":"Geometry Dash",
+          "url":"https://gist.githubusercontent.com/Sayajiaji/42fbf91b18c50e00085f52f617e104a2/raw/"
+       },
+       {
+          "name":"UmaSenko",
+          "url":"http://ub8qbd.satdump.org/umasenko.json"
+       },
+       {
+          "name":"American Flag",
+          "url":"https://pastebin.com/raw/1x7239A1"
+       },
+       {
+          "name":"Rex:R",
+          "url":"https://pastebin.com/raw/1xHJxuws"
+       }
+    ],
+    "blacklist":[
+       
+    ]
+ }
